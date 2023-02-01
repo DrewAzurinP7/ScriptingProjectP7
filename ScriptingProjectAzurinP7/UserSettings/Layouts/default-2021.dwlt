@@ -335,9 +335,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 825a0000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 32fbffff
+      m_ExpandedIDs: a6f7ffffdef8ffff26f9ffff32fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -353,7 +353,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 8}
+        m_ClientGUIView: {fileID: 10}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -586,9 +586,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.2704697, y: 2.6539598, z: 0.9062462}
+    m_Target: {x: 0.69666666, y: 6.2860765, z: 0.40005055}
     speed: 2
-    m_Value: {x: 1.2704697, y: 2.6539598, z: 0.9062462}
+    m_Value: {x: 0.69666666, y: 6.2860765, z: 0.40005055}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -635,9 +635,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.05877471, y: 0.0018065246, z: -0.00010749479, w: 0.9982437}
+    m_Target: {x: -0.062468998, y: 0.07508734, z: 0.0047117, w: 0.99516803}
     speed: 2
-    m_Value: {x: 0.058776233, y: 0.0018065714, z: -0.00010749757, w: 0.99826956}
+    m_Value: {x: -0.06247843, y: 0.07359737, z: 0.0046181716, w: 0.99531835}
   m_Size:
     m_Target: 5.4515815
     speed: 2
@@ -812,9 +812,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4a5a0000
-    m_LastClickedID: 23114
-    m_ExpandedIDs: 00000000425a000000ca9a3bffffff7f
+    m_SelectedIDs: 4e5a0000
+    m_LastClickedID: 23118
+    m_ExpandedIDs: 00000000465a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -842,7 +842,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000425a0000
+    m_ExpandedIDs: 00000000465a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
